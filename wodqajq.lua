@@ -1,5 +1,4 @@
 local usrswed = {
-    "Bxrxsssss",
     "cock",
     "ZacharyWilcox23"
 }
