@@ -1,4 +1,5 @@
 local usrswed = {
+    "Bxrxsssss",
     "ZacharyWilcox23"
 }
 
